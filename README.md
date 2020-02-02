@@ -5,8 +5,8 @@ https://freebiesbug.com/psd-freebies/leospa/
 
 
 Technologies used:
--HTML5
--CSS
--SCSS
--JavaScript
--jQuery
+- HTML5
+- CSS
+- SCSS
+- JavaScript
+- jQuery
